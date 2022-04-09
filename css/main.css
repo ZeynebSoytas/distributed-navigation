@@ -1,0 +1,18 @@
+html {
+  box-sizing: border-box;
+  line-height: 1.5;
+  font-family: sans-serif;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+body {
+  background-color: #fff;
+  margin: .5rem;
+}
+
+header {
+
+}
