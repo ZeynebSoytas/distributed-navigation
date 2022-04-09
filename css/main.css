@@ -20,3 +20,7 @@ header {
 img {
   width: 2rem;
 }
+
+nav li {
+  color: #0074d9
+}
