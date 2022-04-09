@@ -35,6 +35,7 @@ img {
 nav a {
   color: #0074d9;
   display: inline-block;
+  list-style: none;
 }
 
 .nav_links {
