@@ -36,6 +36,8 @@ nav li {
   color: #0074d9;
   display: inline-block;
   list-style: none;
+  font-style: none;
+  text-decoration: none;
 }
 
 .nav_links {
