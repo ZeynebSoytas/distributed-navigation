@@ -20,8 +20,9 @@ header {
 
 img {
   width: 2rem;
+  display:
 }
 
-nav ul {
-  color: #0074d9
+nav a {
+  color: #0074d9;
 }
