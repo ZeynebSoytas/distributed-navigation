@@ -2,7 +2,6 @@ html {
   box-sizing: border-box;
   line-height: 1.5;
   font-family: sans-serif;
-
 }
 
 * {
@@ -22,21 +21,24 @@ header {
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  padding: 1rem .75em 1em .6em
+  padding: 1rem .75em 1em .6em;
 }
 
 header h1 {
   font-family: sans-serif;
-
 }
 
 img {
   width: 1rem;
 }
 
-nav a {
+.nav_links {
+  list-style: none;
+}
+
+.nav_links li {
+  list-style: none;
   color: #0074d9;
-  display: inline-flex;
   display: inline-block;
 }
 
