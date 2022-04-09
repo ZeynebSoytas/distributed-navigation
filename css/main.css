@@ -20,10 +20,13 @@ header {
 
 img {
   width: 2rem;
-  display:
 }
 
 nav a {
   color: #0074d9;
   display: inline-flex;
+}
+
+p {
+  margin-top: 3rem;
 }
