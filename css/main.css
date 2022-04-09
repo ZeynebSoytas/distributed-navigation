@@ -15,12 +15,13 @@ body {
 
 header {
   background-color: #e2e2e2;
+  display: flex;
 }
 
 img {
   width: 2rem;
 }
 
-nav li {
+nav ul {
   color: #0074d9
 }
