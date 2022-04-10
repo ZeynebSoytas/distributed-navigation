@@ -29,7 +29,8 @@ header h1 {
 }
 
 header img {
-  width: auto;
+  width: 1rem;
+  padding: auto;
 }
 
 nav ul {
