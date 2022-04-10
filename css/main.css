@@ -56,7 +56,8 @@ nav:hover {
 
 .nav_links li {
   display: inline-grid;
-  padding: 0px 20px;
+  padding-top: 0px;
+  padding-left: 20px;
 }
 
 header p {
