@@ -43,12 +43,13 @@ nav a {
   text-decoration: none;
 }
 
+nav:hover
 .nav_links {
   list-style: none;
 }
 
 .nav_links li {
-  display: inline-block;
+  display: inline-grid;
   padding: 0px 20px;
 }
 
